@@ -1,4 +1,11 @@
-### Hi there 👋
+### git commit -m 'Pavel Agapov v1.0'🌱
+
+I'm not a magician, I'm just learning for a ```Yandex.Practicum Python developer``` course!  
+
+There are some projects I did.  
+
+📫 **Telegram:** @paff_ka  
+📫 **email:** a.paffka@yandex.ru
 
 <!--
 **apaffka/apaffka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
