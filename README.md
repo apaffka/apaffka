@@ -1,8 +1,6 @@
 ### git commit -m 'Pavel Agapov v1.0'🌱
 
-I'm not a magician, I just finished the ```Yandex.Practicum Python developer``` course!  
-
-There are some projects I did.  
+There are some projects I did.
 
 📫 **Telegram:** @paff_ka  
 📫 **email:** a.paffka@yandex.ru
